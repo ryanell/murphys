@@ -21,7 +21,7 @@ ui.borderless.menu {
 
 
 .footer-background {
-  background-color: darkgreen;
+  background-color: #004030;
   color: white;
   padding-top: 20px;
   padding-bottom: 20px;
@@ -32,5 +32,4 @@ ui.borderless.menu {
 .text.column {
   color: white;
   padding-top: 100px;
-  padding-left: 50px
 }
